@@ -9,7 +9,7 @@ Thumbs.db
 *.swp
 *.swo
 
-# CAD autosave and lock files
+# Draughting software autosave and lock files
 *.ac$
 *.dwl
 *.dwl2

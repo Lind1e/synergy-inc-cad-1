@@ -1,4 +1,4 @@
-# Synergy Inc. CAD Project Brief
+# Synergy Inc. Architectural Draughting Project Brief
 
 ## Project Name
 
@@ -6,57 +6,43 @@ Synergy Inc.
 
 ## Project Type
 
-Mixed-use commercial, industrial, and business development concept.
+Mixed-use commercial, industrial, retail, and professional services development.
 
 ## Project Description
 
-The project involves planning a multi-purpose business centre that may include offices, restaurants, doctors' rooms, mechanical workshops, a diamond cutting house, a gold refinery, a jewellers hub, and an auction house.
+Synergy Inc. is a planning and concept-development project for a multi-purpose business centre. The site may include offices, restaurants, doctors' rooms, mechanical workshops, a diamond cutting house, a gold refinery, a jewellers hub, and an auction house.
 
-The CAD team's role is to support early-stage planning and visualisation by researching space requirements, preparing zoning concepts, drafting conceptual layouts, and producing review-friendly drawings.
+## Draughting Objective
 
-## Key Planning Areas
+Architectural Draughting students will support the early planning phase by researching space requirements, proposing zoning concepts, preparing initial layout ideas, and producing review-friendly drawings or diagrams.
+
+## Key Planning Considerations
 
 Students should consider:
 
 - Public access areas
-- Restricted access areas
 - Staff-only areas
-- Service delivery access
-- Vehicle access
-- Parking
+- Restricted or high-security areas
+- Delivery and service access
 - Customer movement
-- Security-sensitive zones
+- Vehicle movement
+- Parking and drop-off zones
 - Noise separation
-- Safety considerations
-- Practical movement between business areas
-- Clear separation between customer-facing, operational, and high-security zones
-
-## Main Spaces to Research
-
-- Office spaces
-- Restaurant spaces
-- Medical consultation rooms
-- Mechanical workshops
-- Diamond cutting facility
-- Gold refinery
-- Jewellers hub
-- Auction house
-- Reception and administration areas
-- Parking and loading areas
-- Security checkpoints
+- Safety and operational separation
+- Practical flow between different business activities
+- Accessibility and clear wayfinding
 
 ## Expected Student Deliverables
 
-- Research notes
-- Zoning concepts
-- Initial layout sketches
-- CAD layout drafts
-- Public/private/restricted flow diagrams
-- Vehicle and pedestrian movement concepts
-- Exported review drawings
-- Revision notes
+- Research notes for each major space type
+- Zoning concept diagrams
+- Initial layout studies
+- Movement-flow diagrams
+- Parking and access concepts
+- Exported drawings for review
+- Revision notes after feedback
 - Final concept presentation material
 
-## Working Assumptions
+## Important Note
 
-This internship repository supports concept-stage planning only. Students are not expected to produce final professional architectural drawings. The focus is on learning, research, spatial reasoning, drafting discipline, revision control, and professional presentation.
+This is a training and concept-development environment. Students are not expected to produce final construction drawings. The goal is to learn professional thinking, structured documentation, and practical project workflow.

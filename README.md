@@ -1,10 +1,12 @@
-# Synergy Inc. CAD Internship Repository
+# Synergy Inc. Architectural Draughting Internship Repository
+
+This repository is for CTU Bloemfontein Architectural Draughting students working on the Synergy Inc. project.
+
+The purpose of this repository is to teach professional documentation, version control discipline, concept development, revision control, and review-friendly presentation of draughting work.
 
 ## Project Overview
 
-Synergy Inc. is an architectural and business development project focused on planning a multi-purpose business centre.
-
-The property may include:
+Synergy Inc. is a mixed-use architectural and business development project. The property may include:
 
 - Offices
 - Restaurants
@@ -15,63 +17,67 @@ The property may include:
 - Jewellers hub
 - Auction house
 
-This repository is for CAD interns to manage research, zoning concepts, floor-plan concepts, exported drawings, review notes, revisions, and final deliverables in a structured professional workflow.
+## How This Repository Should Be Used
 
-## Repository Purpose
+Students should use this repository to manage:
 
-This repository is not only for storing drawings. It is also used to help interns practise:
+- Research notes
+- Site planning assumptions
+- Space planning research
+- Zoning concepts
+- Floor plan concepts
+- Movement-flow diagrams
+- Parking and access studies
+- Exported drawings for review
+- Feedback notes
+- Revision logs
+- Final concept deliverables
 
-- Project documentation
-- Clear file organisation
-- Version control discipline
-- GitHub issue tracking
-- Review and revision workflows
-- Professional presentation of design work
+This repository should not become an unstructured file dump. Every drawing, export, and note must be named clearly and saved in the correct folder.
 
-## Expected Student Responsibilities
+## Important GitHub Workflow
 
-Students are expected to:
+Architectural Draughting students will use GitHub to learn professional project workflow.
 
-- Keep files in the correct folders.
-- Use the naming convention in `CAD_NAMING_CONVENTION.md`.
-- Export drawings for review in PDF, PNG, or JPG format.
-- Update `REVISION_LOG.md` when work changes.
-- Document assumptions and design decisions.
-- Avoid deleting or overwriting another student's work.
-- Use clear commit messages.
-- Ask for help early when blocked.
+Expected workflow:
 
-## Important Note About CAD Files
+1. Pull the latest version of the repository.
+2. Create or update work in the correct folder.
+3. Export review-friendly files as PDF, PNG, or JPG.
+4. Update the revision log.
+5. Commit changes with a clear message.
+6. Push work to GitHub.
+7. Open a pull request if required by the mentor.
 
-CAD source files can be large binary files. Do not upload unnecessary duplicates, temporary files, autosave files, or unnamed versions.
+## Recommended Review Format
 
-Where possible, upload review-friendly exports such as:
+For review, students should provide exported files, not only source files.
 
-- PDF
-- PNG
-- JPG
+Preferred review formats:
 
-Large CAD source files should only be committed when required. If files become too large for normal GitHub use, Git LFS may be introduced.
+- PDF for drawings and plans
+- PNG or JPG for quick visual review
+- Markdown notes for assumptions and explanations
 
-## Folder Structure
+Large source files should only be uploaded when needed. If large files become a problem, Git LFS should be considered.
 
-```text
-01-research/                 Research notes and planning references
-02-concepts/                 Zoning, floor-plan, movement-flow, and access concepts
-03-cad-source-files/         CAD source files only when required
-04-exports-for-review/       PDF/image exports for review
-05-presentations/            Concept boards and presentation material
-06-feedback-and-revisions/   Feedback notes and revision actions
-07-final-deliverables/       Approved final deliverables
-```
+## Folder Overview
 
-## First Step for Interns
+- `01-research/` - research notes and planning references
+- `02-concepts/` - zoning, floor plan, movement flow, and parking concepts
+- `03-draughting-source-files/` - Draughting or draughting source files
+- `04-exports-for-review/` - PDF and image exports for review
+- `05-presentations/` - concept boards and presentation material
+- `06-feedback-and-revisions/` - feedback notes and revision actions
+- `07-final-deliverables/` - final approved deliverables
+- `docs/` - student guide, GitHub workflow, and standards
 
-Start by reading:
+## First Step for Students
 
-1. `PROJECT_BRIEF.md`
-2. `CAD_NAMING_CONVENTION.md`
-3. `CONTRIBUTING.md`
-4. `REVISION_LOG.md`
+Start with:
 
-Then complete the starter research tasks listed in GitHub Issues.
+1. `START_HERE_ARCHITECTURAL_DRAUGHTING.md`
+2. `PROJECT_BRIEF.md`
+3. `DRAUGHTING_NAMING_CONVENTION.md`
+4. `docs/GITHUB_WORKFLOW_FOR_DRAUGHTING_STUDENTS.md`
+5. `docs/FIRST_WEEK_DRAUGHTING_TRAINING.md`

@@ -1,0 +1,8 @@
+## Task 4: Synergy Inc. Secure Area Notes (Physical Security Design)
+
+**Diamond Cutting House:** * *Controls:* High-security zone. Requires dual-custody access (two authorized people must scan in together), reinforced concrete walls, seismic vibration sensors, and 24/7 high-definition CCTV focused on cutting tables.
+**Gold Refinery:** * *Controls:* High thermal and chemical hazard zone. Access must require specialized safety gear authorization, automated toxic gas monitoring logs, and physical mantraps (two-door airlocks) at entry/exit points to prevent rapid theft or flight.
+**Jewellers Hub:** * *Controls:* Medium-to-High security retail/manufacturing space. Time-locked biometric safes for inventory storage overnight, physical display cases made of smash-proof polycarbonate glass, and silent panic buttons connected directly to law enforcement.
+**Auction House:** * *Controls:* Public-facing secure zone. Temporary asset cages for items up for bid, strict guest registration and badge printing at the door, and separate hidden paths for moving valuable goods out of sight of the main floor.
+**Staff-Only Zones:** * *Controls:* Standard administrative spaces. RFID badge scanners required on all perimeter doors. Anti-passback controls enforced (cannot pass a badge backward to let a friend in).
+**Delivery and Restricted Access Points:** * *Controls:* Interlocking vehicle sally ports (fenced areas where delivery trucks are locked in while being inspected) for high-value transits, mandatory government-issued ID logging for all delivery staff, and physical bollards capable of stopping forced vehicle entry.
